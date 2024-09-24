@@ -1,0 +1,1 @@
+This project demonstrates how Huffman coding can be implemented to perform compression and decompression of data efficiently. It showcases the use of binary trees, heap data structures, and frequency-based encoding, making it useful for optimizing storage and transmission of text data.
